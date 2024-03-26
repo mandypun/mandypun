@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there, my name is Wai Man PUN. 👋
+
+* 💬 Ask me about
+
+Software developer with more than 10 years of experience in the development of backend processes, data web frontend and BI reports, using C#, .NET, MS SQL, SSIS, ASP, and Power Pivot. Adept at applying my expansive technical expertise to design and deliver insightful, innovative IT solutions proven to help to improve business productivity and efficiency. Outstanding organisational skills, reliable and great attention to detail with excellent problem solving skills.
+
+* 🔭 I’m currently working on
+
+Moved to the UK on a permanent basis and eligible to work. I am actively expanding my skill set by acquiring knowledge in Azure cloud services to enhance my
+development and design capabilities by using cloud technologies. Since Oct 2023, working as a part-time assistant project officer in a community centre and using my programming skill to build programs to work on trivial tasks, including creating membership card images with Python, and re-organising data in google sheet with app script. Currently, I joined the "Skills Bootcamps" about Data Science organised by Cogrammar. In this bootcamps, I am improving my Python skills and learning how to analyse data using Python codes.
 
 <!--
 **mandypun/mandypun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
