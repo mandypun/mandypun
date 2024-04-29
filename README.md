@@ -7,7 +7,7 @@ Software developer with more than 10 years of experience in the development of b
 * 🔭 I’m currently working on
 
 Moved to the UK on a permanent basis and eligible to work. I am actively expanding my skill set by acquiring knowledge in Azure cloud services to enhance my
-development and design capabilities by using cloud technologies. Since Oct 2023, working as a part-time assistant project officer in a community centre and using my programming skill to build programs to work on trivial tasks, including creating membership card images with Python, and re-organising data in google sheet with app script. Currently, I joined the "Skills Bootcamps" about Data Science organised by Cogrammar. In this bootcamps, I am improving my Python skills and learning how to analyse data using Python codes.
+development and design capabilities by using cloud technologies. Since Oct 2023, working as a assistant project officer in a community centre and using my programming skill to build programs to work on trivial tasks, including creating membership card with Python, and re-organising data in google sheet with app script. Currently, I joined the "Skills Bootcamps" about Data Science organised by HyperionDev. In this bootcamps, I am improving my Python skills and learning how to analyse data using Python codes.
 
 <!--
 **mandypun/mandypun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
