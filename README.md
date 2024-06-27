@@ -1,14 +1,12 @@
 # Hi there, my name is Wai Man PUN. 👋
 
-* 💬 Ask me about
+* 💬 About me
 
 Software developer with more than 10 years of experience in the development of backend processes, data web frontend and BI reports, using C#, .NET, MS SQL, SSIS, ASP, and Power Pivot. Adept at applying my expansive technical expertise to design and deliver insightful, innovative IT solutions proven to help to improve business productivity and efficiency. Outstanding organisational skills, reliable and great attention to detail with excellent problem solving skills.
 
 * 🔭 I’m currently working on
 
-Moved to the UK on a permanent basis and eligible to work. I am actively expanding my skill set by acquiring knowledge in Azure cloud services to enhance my
-development and design capabilities by using cloud technologies. Since Oct 2023, working as a assistant project officer in a community centre and using my programming skill to build programs to work on trivial tasks, including creating membership card with Python, and re-organising data in google sheet with app script. Currently, I joined the "Skills Bootcamps" about Data Science organised by HyperionDev. In this bootcamps, I am improving my Python skills and learning how to analyse data using Python codes.
-
+Currently I am studying data science in a skill bootcamp by HyperionDev, where I am improving my Python skills and learning different data models and how to analyse data using with them. I find it fascinating to discover patterns in data, which aligns with my detail-oriented personality and curiosity for uncovering insights. The advancements made by previous experts in the field have significantly simplified the work, allowing for the wide application of machine learning in many amazing tasks. I aspire to contribute to this field and explore a career in data science. My works for the study on data science can be found at my [data_science](https://github.com/mandypun/data_science) repository.
 <!--
 **mandypun/mandypun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
