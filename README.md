@@ -6,7 +6,7 @@ Software developer with more than 10 years of experience in the development of b
 
 * 🔭 I’m currently working on
 
-Currently I am studying data science in a skill bootcamp by HyperionDev, where I am improving my Python skills and learning different data models and how to analyse data using with them. I find it fascinating to discover patterns in data, which aligns with my detail-oriented personality and curiosity for uncovering insights. The advancements made by previous experts in the field have significantly simplified the work, allowing for the wide application of machine learning in many amazing tasks. I aspire to contribute to this field and explore a career in data science. My works for the study on data science can be found at my [data_science](https://github.com/mandypun/data_science) repository.
+Currently I am studying data science in a skill bootcamp by HyperionDev, where I am improving my Python skills and learning different data models and how to analyse data using with them. I find it fascinating to discover patterns in data, which aligns with my detail-oriented personality and curiosity for uncovering insights. The advancements made by previous experts in the field have significantly simplified the work, allowing for the wide application of machine learning in many amazing tasks. I aspire to contribute to this field and explore a career in data science. My works for the study on data science can be found at my [codingTasks](https://github.com/mandypun/codingTasks) repository.
 <!--
 **mandypun/mandypun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
